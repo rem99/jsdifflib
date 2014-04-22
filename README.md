@@ -2,7 +2,7 @@
 
 A javascript library for diffing text and generating corresponding HTML views.  This is a fork of [cemerick/jsdifflib](https://github.com/cemerick/jsdifflib) which has been updated for use with browserify and node.js
 
-[![NPM version](https://badge.fury.io/js/jsdifflib.png)](http://badge.fury.io/js/jsdifflib)
+[![NPM version](https://img.shields.io/npm/v/jsdifflib.svg)](http://badge.fury.io/js/jsdifflib)
 
 ## Installation
 
